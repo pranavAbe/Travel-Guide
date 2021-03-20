@@ -1,5 +1,5 @@
-name: location_detail
-description: A new Flutter project.
+name: travel_guide
+description: A Hello World Flutter Project
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
