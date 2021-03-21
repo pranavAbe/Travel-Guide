@@ -29,6 +29,7 @@ class LocationDetail extends StatelessWidget {
                                 style: TextStyle(
                                     fontFamily: "Montserrat",
                                     fontSize: 34,
+                                    color: Colors.white,
                                     fontWeight: FontWeight.w800),
                               ),
                               Container(
