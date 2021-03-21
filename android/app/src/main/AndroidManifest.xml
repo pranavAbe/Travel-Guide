@@ -2,7 +2,7 @@
     package="com.example.location_detail">
    <application
         android:label="Travel Guide"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launch_image">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
