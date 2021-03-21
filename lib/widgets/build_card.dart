@@ -20,7 +20,7 @@ class BuildCard extends StatelessWidget {
         splashColor: Colors.grey[850],
         child: DisplayCard(locationData),
         onTap: () {
-          double sheetHeight = MediaQuery.of(context).size.height - 107;
+          double sheetHeight = MediaQuery.of(context).size.height;
           buildBottomSheet(context, locationData, sheetHeight);
         },
       ),
